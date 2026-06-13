@@ -2,7 +2,7 @@
 
 # Get repo
 echo "Get repo"
-git clone https://github.com/blenherr/RPiOledStatsLuma.git
+git clone https://github.com/CircuitGremlin/RPiOledStatsLuma.git
 
 # Open directory
 echo "Open directory"
