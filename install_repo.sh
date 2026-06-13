@@ -19,3 +19,6 @@ source ./pyvenv/bin/activate
 # Install pip packages
 echo "Install pip packages"
 pip3 install pyyaml psutil luma.oled
+
+# Done
+echo "Done!"
