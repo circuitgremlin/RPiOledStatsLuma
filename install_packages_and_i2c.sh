@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Update system
 echo "Update system"
 sudo apt update && sudo apt -y full-upgrade
