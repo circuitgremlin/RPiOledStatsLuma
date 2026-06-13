@@ -11,3 +11,6 @@ sudo apt install -y i2c-tools git
 # Enable I2C interface
 echo "Enable I2C interface"
 sudo raspi-config nonint do_i2c 0
+
+# Done
+echo "Done!"
