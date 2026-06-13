@@ -68,7 +68,7 @@ sudo reboot
 ```
 wget -qO- https://raw.githubusercontent.com/circuitgremlin/RPiOledStatsLuma/main/install_repo.sh | bash
 ```
-### Install repo
+### Install service
 ```
 wget -qO- https://raw.githubusercontent.com/circuitgremlin/RPiOledStatsLuma/main/install_service.sh | bash
 ```
