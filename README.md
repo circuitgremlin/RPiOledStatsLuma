@@ -37,7 +37,7 @@ Pages:
 # Setup your display
 See ![https://github.com/rm-hull/luma.oled](https://github.com/rm-hull/luma.oled)
 ## Coding
-You will need to edit ![config.yml](https://github.com/blenherr/RPiOledStatsLuma/blob/main/config.yml)
+You will need to edit ![config.yml](https://github.com/circuitgremlin/RPiOledStatsLuma/blob/main/config.yml)
 ```
 oled:
 
