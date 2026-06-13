@@ -2,6 +2,7 @@
 
 - [Information](#information)
 - [Setup your display](#setup-your-display)
+- [Installation file](#installation-file)
 - [Installation guide](#installation-guide)
 - [Configuration](#configuration)
 - [Testing](#testing)
@@ -54,6 +55,11 @@ oled:
 See ![https://github.com/rm-hull/luma.oled](https://github.com/rm-hull/luma.oled)
 ## Button(s)
 Any GPIO pin you like. Connected to GND (Ground) which is pulled up internally by Raspberry Pi
+
+# Installation file
+```
+wget -qO- https://github.com/CircuitGremlin/RPiOledStatsLuma/master/install.sh | bash
+```
 
 # Installation guide
 ## 1. Update system
