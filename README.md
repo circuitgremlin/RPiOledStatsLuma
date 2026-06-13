@@ -39,6 +39,13 @@ See ![https://github.com/rm-hull/luma.oled](https://github.com/rm-hull/luma.oled
 You will need to edit ![config.yml](https://github.com/blenherr/RPiOledStatsLuma/blob/main/config.yml)
 ```
 oled:
+
+# Oled definitions
+#
+#   i2c_port: number (Typically: 1)
+#   i2c_address: number (Typically: 0x3C or 60)
+#   driver: Only 128x64 pixel displays are supportet! (See https://github.com/rm-hull/luma.oled)
+
   i2c_port: 1
   i2c_address: 0x3C
   driver: sh1106
