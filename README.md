@@ -120,9 +120,9 @@ sudo reboot
 ### 4. Enable Docker memory stats
 **(You can skip this step if you are not using Docker)**
 
-Edit `/boot/cmdline.txt`
+Edit `/boot/firmware/cmdline.txt`
 ```
-sudo nano /boot/cmdline.txt
+sudo nano /boot/firmware/cmdline.txt
 ```
 Add the following options at the beginning of the line
 ```
