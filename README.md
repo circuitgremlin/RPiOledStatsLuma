@@ -178,7 +178,7 @@ pip3 install pyyaml psutil luma.oled
 # Configuration
 Edit `config.yml`
 ```
-nano config.yml
+nano ~/RPiOledStatsLuma/config.yml
 ```
 Content of `config.yml` file:
 ```
